@@ -1,0 +1,30 @@
+.class{
+    background-color: red;
+}
+img{
+    border-radius: 200px;
+    width: 250px;
+    margin:60px;
+   
+}
+header{
+    text-align: top center;
+    text-underline-position: above;
+    color: black;
+    
+
+}
+body{
+    border:3px;
+}
+.contain{
+    border: 5px solid blue;
+    
+    width:500px;
+    margin:30px;
+    padding:30px;
+    height:100%;
+    width:100%;
+    background-color: aquamarine ;
+    opacity 0.2;
+}
